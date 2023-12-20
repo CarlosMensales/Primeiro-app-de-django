@@ -4,4 +4,4 @@ from django.http import HttpResponse
 #funções vem aqu
 
 def mudar_mensagem(request):
-    return HttpResponse('Olá mundo!')
+    return HttpResponse('Teste')
